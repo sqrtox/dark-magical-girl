@@ -1,0 +1,27 @@
+{
+  "name": "dark-magical-girl",
+  "displayName": "Dark Magical Girl",
+  "description": "This is a kawaii theme like a magical girl based on Dark Modern.",
+  "license": "MIT",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sqrtox/dark-magical-girl.git"
+  },
+  "publisher": "sqrtox",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Magical Girl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Magical Girl-color-theme.json"
+      }
+    ]
+  }
+}
